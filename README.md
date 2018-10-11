@@ -1,4 +1,4 @@
-# Pinewood UX Code Test Project
+# Pinewood Front-end Code Test
 
 The purpose of this task is to test your design and front-end coding skills.
 You can add to or amend the source files as much as you wish. Feel free to
