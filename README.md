@@ -1,9 +1,9 @@
-# Pinewood Front-end Code Test
+# Front-end Code Test
 
 The purpose of this task is to test your design and front-end coding skills.
 You can add to or amend the source files as much as you wish. Feel free to
-use any JavaScript libraries or frameworks to complete the task, although bear
-in mind that we want to see your abilities and not someone elses.	
+use any JavaScript libraries, but please do not use Bootstrap / Foundation etc
+to complete the task as we want to see your abilities and not someone elses.	
 
 
 Please complete the requirements listed below. Your work must be supported in
